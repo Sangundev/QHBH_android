@@ -27,6 +27,7 @@
         <activity
             android:name=".OrderActivity"
             android:exported="false" />
+        <activity android:name=".AddsanphamActivity"></activity>
         <activity
             android:name=".AdminmainActivity"
             android:exported="true">
