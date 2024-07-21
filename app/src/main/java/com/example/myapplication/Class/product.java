@@ -10,7 +10,6 @@ public class product {
         this.description = description;
         this.imageResource = imageResource;
     }
-
     public String getName() {
         return name;
     }
